@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: rgb(0, 29, 0);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(45, 86, 223);
+}
+
+a {
+  color: #0695bd;
+}
+
+img {
+  width: 20rem;
+}
+
+p {
+  max-width: 1000px;
+}
+
+p.attrib {
+  font-size:x-small;
+}

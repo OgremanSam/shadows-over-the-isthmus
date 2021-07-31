@@ -1,0 +1,36 @@
+.toggler-line {
+    font-size: 1rem;
+}
+
+label {
+    padding: 0 0.5rem 0 0.5rem;
+}
+.add-btn {
+    margin-left: 0.5rem;
+}
+
+.location-div {
+    margin: 0.75rem;
+}
+
+.locationCard {
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(255,255,255,0.3);
+    background-color: floralwhite;
+    margin-right: 16px;
+    border-radius: 2px;
+    width: 300px;
+}
+
+.locationCard:hover {
+    box-shadow: 0 8px 16px 0 rgba(255,255,255,0.3);
+}
+
+.locTitle {
+    font-size: small;
+}
+
+img {
+    border-radius: 5px;
+    width: 290px;
+}
